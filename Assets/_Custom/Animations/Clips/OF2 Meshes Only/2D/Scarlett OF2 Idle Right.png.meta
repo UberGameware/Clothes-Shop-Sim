@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 5e186a913c79cbb459e788a566022f77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7801533045325665724
+    second: Scarlett OF2 Idle Right_0
+  - first:
+      213: -1766177683791721327
+    second: Scarlett OF2 Idle Right_1
+  - first:
+      213: -1914157990846541149
+    second: Scarlett OF2 Idle Right_2
+  - first:
+      213: -4001797149601012280
+    second: Scarlett OF2 Idle Right_3
+  - first:
+      213: 6800786349187204988
+    second: Scarlett OF2 Idle Right_4
+  - first:
+      213: 6593343022503987442
+    second: Scarlett OF2 Idle Right_5
+  - first:
+      213: -5173619737544165746
+    second: Scarlett OF2 Idle Right_6
+  - first:
+      213: -2548682208947043245
+    second: Scarlett OF2 Idle Right_7
+  - first:
+      213: 609554489176101503
+    second: Scarlett OF2 Idle Right_8
+  - first:
+      213: 421143773330320320
+    second: Scarlett OF2 Idle Right_9
+  - first:
+      213: -4602412159526392731
+    second: Scarlett OF2 Idle Right_10
+  - first:
+      213: -8464218241513280012
+    second: Scarlett OF2 Idle Right_11
+  - first:
+      213: -8844686396752758497
+    second: Scarlett OF2 Idle Right_12
+  - first:
+      213: -8675475261422268912
+    second: Scarlett OF2 Idle Right_13
+  - first:
+      213: -8631293851592586403
+    second: Scarlett OF2 Idle Right_14
+  - first:
+      213: 1204066370525291203
+    second: Scarlett OF2 Idle Right_15
+  - first:
+      213: -8571610638499788960
+    second: Scarlett OF2 Idle Right_16
+  - first:
+      213: -8398152193930186390
+    second: Scarlett OF2 Idle Right_17
+  - first:
+      213: -5510736694191425954
+    second: Scarlett OF2 Idle Right_18
+  - first:
+      213: -24792597728389697
+    second: Scarlett OF2 Idle Right_19
+  - first:
+      213: 6468147886752009556
+    second: Scarlett OF2 Idle Right_20
+  - first:
+      213: 3479787097091521964
+    second: Scarlett OF2 Idle Right_21
+  - first:
+      213: 4541927066463777648
+    second: Scarlett OF2 Idle Right_22
+  - first:
+      213: -3035189963730644784
+    second: Scarlett OF2 Idle Right_23
+  - first:
+      213: 232421486919313032
+    second: Scarlett OF2 Idle Right_24
+  - first:
+      213: -798998247103378013
+    second: Scarlett OF2 Idle Right_25
+  - first:
+      213: 1608543313130516728
+    second: Scarlett OF2 Idle Right_26
+  - first:
+      213: -2387144977646565648
+    second: Scarlett OF2 Idle Right_27
+  - first:
+      213: 5469394244374822222
+    second: Scarlett OF2 Idle Right_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb59b1e68fc944c60800000000000000
+      internalID: 7801533045325665724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c4f5311c64d77e0800000000000000
+      internalID: -1766177683791721327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2dd9fe27b8f65e0800000000000000
+      internalID: -1914157990846541149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56cd2e1b2c678c0800000000000000
+      internalID: -4001797149601012280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7701a8072f316e50800000000000000
+      internalID: 6800786349187204988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f886a2cb82408b50800000000000000
+      internalID: 6593343022503987442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86fabc724c9338b0800000000000000
+      internalID: -5173619737544165746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3548a52d80341acd0800000000000000
+      internalID: -2548682208947043245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72169e0492957800800000000000000
+      internalID: 609554489176101503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba8b0d70438d500800000000000000
+      internalID: 421143773330320320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cad798682f020c0800000000000000
+      internalID: -4602412159526392731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd283dca5e098a80800000000000000
+      internalID: -8464218241513280012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1972d3559c514580800000000000000
+      internalID: -8844686396752758497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e8c31e6358a9780800000000000000
+      internalID: -8675475261422268912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8fc7f8fb773880800000000000000
+      internalID: -8631293851592586403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2672d0cf3b5b010800000000000000
+      internalID: 1204066370525291203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067c243e9858b0980800000000000000
+      internalID: -8571610638499788960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bf1f2315c37b80800000000000000
+      internalID: -8398152193930186390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56720c7c2ee583b0800000000000000
+      internalID: -5510736694191425954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb51753834be7aff0800000000000000
+      internalID: -24792597728389697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d0c88bb3a73c950800000000000000
+      internalID: 6468147886752009556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadb0289defaa4030800000000000000
+      internalID: 3479787097091521964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733e405a9a280f30800000000000000
+      internalID: 4541927066463777648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d011022fc6d0e5d0800000000000000
+      internalID: -3035189963730644784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8866ef56c1ab93300800000000000000
+      internalID: 232421486919313032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4e39d35369e4f0800000000000000
+      internalID: -798998247103378013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f079f0fe91b25610800000000000000
+      internalID: 1608543313130516728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c40c5a482fded0800000000000000
+      internalID: -2387144977646565648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Idle Right_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df680561137eb40800000000000000
+      internalID: 5469394244374822222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scarlett OF2 Idle Right_2: -1914157990846541149
+      Scarlett OF2 Idle Right_10: -4602412159526392731
+      Scarlett OF2 Idle Right_11: -8464218241513280012
+      Scarlett OF2 Idle Right_18: -5510736694191425954
+      Scarlett OF2 Idle Right_13: -8675475261422268912
+      Scarlett OF2 Idle Right_8: 609554489176101503
+      Scarlett OF2 Idle Right_20: 6468147886752009556
+      Scarlett OF2 Idle Right_1: -1766177683791721327
+      Scarlett OF2 Idle Right_23: -3035189963730644784
+      Scarlett OF2 Idle Right_3: -4001797149601012280
+      Scarlett OF2 Idle Right_16: -8571610638499788960
+      Scarlett OF2 Idle Right_21: 3479787097091521964
+      Scarlett OF2 Idle Right_19: -24792597728389697
+      Scarlett OF2 Idle Right_12: -8844686396752758497
+      Scarlett OF2 Idle Right_17: -8398152193930186390
+      Scarlett OF2 Idle Right_4: 6800786349187204988
+      Scarlett OF2 Idle Right_14: -8631293851592586403
+      Scarlett OF2 Idle Right_27: -2387144977646565648
+      Scarlett OF2 Idle Right_15: 1204066370525291203
+      Scarlett OF2 Idle Right_28: 5469394244374822222
+      Scarlett OF2 Idle Right_25: -798998247103378013
+      Scarlett OF2 Idle Right_6: -5173619737544165746
+      Scarlett OF2 Idle Right_9: 421143773330320320
+      Scarlett OF2 Idle Right_24: 232421486919313032
+      Scarlett OF2 Idle Right_5: 6593343022503987442
+      Scarlett OF2 Idle Right_26: 1608543313130516728
+      Scarlett OF2 Idle Right_0: 7801533045325665724
+      Scarlett OF2 Idle Right_7: -2548682208947043245
+      Scarlett OF2 Idle Right_22: 4541927066463777648
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

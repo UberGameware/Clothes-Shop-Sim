@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: ca5212a98d79225498e9abfe4df269ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3144824724692592993
+    second: Scarlett OF4 Idle Front_0
+  - first:
+      213: 7695879561025417985
+    second: Scarlett OF4 Idle Front_1
+  - first:
+      213: -4829740146089673151
+    second: Scarlett OF4 Idle Front_2
+  - first:
+      213: 7877377008546193399
+    second: Scarlett OF4 Idle Front_3
+  - first:
+      213: 3590802815507433369
+    second: Scarlett OF4 Idle Front_4
+  - first:
+      213: 2818184144102918198
+    second: Scarlett OF4 Idle Front_5
+  - first:
+      213: -2458044209839927266
+    second: Scarlett OF4 Idle Front_6
+  - first:
+      213: -3213620957808282980
+    second: Scarlett OF4 Idle Front_7
+  - first:
+      213: -3350770726512714699
+    second: Scarlett OF4 Idle Front_8
+  - first:
+      213: 79837083503625814
+    second: Scarlett OF4 Idle Front_9
+  - first:
+      213: -2128971726178783967
+    second: Scarlett OF4 Idle Front_10
+  - first:
+      213: -9075418079591784441
+    second: Scarlett OF4 Idle Front_11
+  - first:
+      213: 2297350453731446112
+    second: Scarlett OF4 Idle Front_12
+  - first:
+      213: 705513054160788835
+    second: Scarlett OF4 Idle Front_13
+  - first:
+      213: -8386341853671886617
+    second: Scarlett OF4 Idle Front_14
+  - first:
+      213: -5741062347417084485
+    second: Scarlett OF4 Idle Front_15
+  - first:
+      213: -4720996267487043520
+    second: Scarlett OF4 Idle Front_16
+  - first:
+      213: 4424169454455973475
+    second: Scarlett OF4 Idle Front_17
+  - first:
+      213: 3065439788446416797
+    second: Scarlett OF4 Idle Front_18
+  - first:
+      213: 2401116889868640278
+    second: Scarlett OF4 Idle Front_19
+  - first:
+      213: 7297670559914115780
+    second: Scarlett OF4 Idle Front_20
+  - first:
+      213: -1779985146781169377
+    second: Scarlett OF4 Idle Front_21
+  - first:
+      213: -2227666168014943954
+    second: Scarlett OF4 Idle Front_22
+  - first:
+      213: -972505569152179581
+    second: Scarlett OF4 Idle Front_23
+  - first:
+      213: 3284276549870562792
+    second: Scarlett OF4 Idle Front_24
+  - first:
+      213: -1869226939870887329
+    second: Scarlett OF4 Idle Front_25
+  - first:
+      213: 503868791576199621
+    second: Scarlett OF4 Idle Front_26
+  - first:
+      213: -832938262929485682
+    second: Scarlett OF4 Idle Front_27
+  - first:
+      213: -3693579344997829920
+    second: Scarlett OF4 Idle Front_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9615db23965b54d0800000000000000
+      internalID: -3144824724692592993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103fb1dafa14dca60800000000000000
+      internalID: 7695879561025417985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eb1ea1de059fcb0800000000000000
+      internalID: -4829740146089673151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff993437a0125d60800000000000000
+      internalID: 7877377008546193399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9970bc4c22815d130800000000000000
+      internalID: 3590802815507433369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63884e43c833c1720800000000000000
+      internalID: 2818184144102918198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10194e70d543edd0800000000000000
+      internalID: -2458044209839927266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92361fe3cce663d0800000000000000
+      internalID: -3213620957808282980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9e6207cbaf71d0800000000000000
+      internalID: -3350770726512714699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656032a8763ab1100800000000000000
+      internalID: 79837083503625814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d634cae7f5472e0800000000000000
+      internalID: -2128971726178783967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70026c91753ad0280800000000000000
+      internalID: -9075418079591784441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dce37d014d1ef10800000000000000
+      internalID: 2297350453731446112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d97a1826c7ac900800000000000000
+      internalID: 705513054160788835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e075ee448abd9b80800000000000000
+      internalID: -8386341853671886617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd95d46636a350b0800000000000000
+      internalID: -5741062347417084485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0406d7a58e6ab7eb0800000000000000
+      internalID: -4720996267487043520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3666bf6bdaec56d30800000000000000
+      internalID: 4424169454455973475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f72b60f31aa8a20800000000000000
+      internalID: 3065439788446416797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610afc4f61b725120800000000000000
+      internalID: 2401116889868640278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c183a5b8864560800000000000000
+      internalID: 7297670559914115780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1903a490f83c47e0800000000000000
+      internalID: -1779985146781169377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2940514c6db511e0800000000000000
+      internalID: -2227666168014943954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38268906657f082f0800000000000000
+      internalID: -972505569152179581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2e2b0f18149d20800000000000000
+      internalID: 3284276549870562792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c764700c2f06e0800000000000000
+      internalID: -1869226939870887329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c10e4f0ff91ef600800000000000000
+      internalID: 503868791576199621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d14e101fc074f0800000000000000
+      internalID: -832938262929485682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF4 Idle Front_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23fa7b725cdbcc0800000000000000
+      internalID: -3693579344997829920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scarlett OF4 Idle Front_28: -3693579344997829920
+      Scarlett OF4 Idle Front_10: -2128971726178783967
+      Scarlett OF4 Idle Front_18: 3065439788446416797
+      Scarlett OF4 Idle Front_14: -8386341853671886617
+      Scarlett OF4 Idle Front_27: -832938262929485682
+      Scarlett OF4 Idle Front_25: -1869226939870887329
+      Scarlett OF4 Idle Front_16: -4720996267487043520
+      Scarlett OF4 Idle Front_12: 2297350453731446112
+      Scarlett OF4 Idle Front_6: -2458044209839927266
+      Scarlett OF4 Idle Front_7: -3213620957808282980
+      Scarlett OF4 Idle Front_4: 3590802815507433369
+      Scarlett OF4 Idle Front_24: 3284276549870562792
+      Scarlett OF4 Idle Front_8: -3350770726512714699
+      Scarlett OF4 Idle Front_19: 2401116889868640278
+      Scarlett OF4 Idle Front_5: 2818184144102918198
+      Scarlett OF4 Idle Front_2: -4829740146089673151
+      Scarlett OF4 Idle Front_20: 7297670559914115780
+      Scarlett OF4 Idle Front_15: -5741062347417084485
+      Scarlett OF4 Idle Front_1: 7695879561025417985
+      Scarlett OF4 Idle Front_0: -3144824724692592993
+      Scarlett OF4 Idle Front_21: -1779985146781169377
+      Scarlett OF4 Idle Front_23: -972505569152179581
+      Scarlett OF4 Idle Front_22: -2227666168014943954
+      Scarlett OF4 Idle Front_13: 705513054160788835
+      Scarlett OF4 Idle Front_26: 503868791576199621
+      Scarlett OF4 Idle Front_11: -9075418079591784441
+      Scarlett OF4 Idle Front_3: 7877377008546193399
+      Scarlett OF4 Idle Front_17: 4424169454455973475
+      Scarlett OF4 Idle Front_9: 79837083503625814
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 2db8cf2a5b1de594f89f5104404bcfed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8360148323591885483
+    second: Scarlett OF2 Walk Right_0
+  - first:
+      213: -3400212832174782811
+    second: Scarlett OF2 Walk Right_1
+  - first:
+      213: -2880032665084786863
+    second: Scarlett OF2 Walk Right_2
+  - first:
+      213: 8198230858675016787
+    second: Scarlett OF2 Walk Right_3
+  - first:
+      213: -8560290798756886786
+    second: Scarlett OF2 Walk Right_4
+  - first:
+      213: 1442380790080991037
+    second: Scarlett OF2 Walk Right_5
+  - first:
+      213: 8356145281307648571
+    second: Scarlett OF2 Walk Right_6
+  - first:
+      213: -4506762660890301565
+    second: Scarlett OF2 Walk Right_7
+  - first:
+      213: -7017547419036625747
+    second: Scarlett OF2 Walk Right_8
+  - first:
+      213: -7565348817551472986
+    second: Scarlett OF2 Walk Right_9
+  - first:
+      213: -8441681600999411830
+    second: Scarlett OF2 Walk Right_10
+  - first:
+      213: 1446960780779343093
+    second: Scarlett OF2 Walk Right_11
+  - first:
+      213: 9094961158594537911
+    second: Scarlett OF2 Walk Right_12
+  - first:
+      213: -6881740541225576015
+    second: Scarlett OF2 Walk Right_13
+  - first:
+      213: -721377825334789789
+    second: Scarlett OF2 Walk Right_14
+  - first:
+      213: -4516398857242897533
+    second: Scarlett OF2 Walk Right_15
+  - first:
+      213: -2534782343246327741
+    second: Scarlett OF2 Walk Right_16
+  - first:
+      213: -9000669773151994662
+    second: Scarlett OF2 Walk Right_17
+  - first:
+      213: 3021496866182825884
+    second: Scarlett OF2 Walk Right_18
+  - first:
+      213: -528811896123642711
+    second: Scarlett OF2 Walk Right_19
+  - first:
+      213: -2896379659506369417
+    second: Scarlett OF2 Walk Right_20
+  - first:
+      213: -2544881739705419156
+    second: Scarlett OF2 Walk Right_21
+  - first:
+      213: -3488419615771129223
+    second: Scarlett OF2 Walk Right_22
+  - first:
+      213: 1884027604149232313
+    second: Scarlett OF2 Walk Right_23
+  - first:
+      213: 2034291741028744851
+    second: Scarlett OF2 Walk Right_24
+  - first:
+      213: -6744655971904204367
+    second: Scarlett OF2 Walk Right_25
+  - first:
+      213: -6325888115827881786
+    second: Scarlett OF2 Walk Right_26
+  - first:
+      213: 2125398293034166413
+    second: Scarlett OF2 Walk Right_27
+  - first:
+      213: -5088492690930098985
+    second: Scarlett OF2 Walk Right_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba295493b96350470800000000000000
+      internalID: 8360148323591885483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64f79b17400d0d0800000000000000
+      internalID: -3400212832174782811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1578918dc811808d0800000000000000
+      internalID: -2880032665084786863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35458f5a787f5c170800000000000000
+      internalID: 8198230858675016787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef60d067fdcb33980800000000000000
+      internalID: -8560290798756886786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fef9fbfad540410800000000000000
+      internalID: 1442380790080991037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3226ef4cddf6f370800000000000000
+      internalID: 8356145281307648571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba3aedc33c471c0800000000000000
+      internalID: -4506762660890301565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4dcdd8dc9ac9e90800000000000000
+      internalID: -7017547419036625747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a64ce7555b720790800000000000000
+      internalID: -7565348817551472986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8faa715f4f19da80800000000000000
+      internalID: -8441681600999411830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc464ee923a41410800000000000000
+      internalID: 1446960780779343093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a0009cfac73e70800000000000000
+      internalID: 9094961158594537911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b958d350752f70a0800000000000000
+      internalID: -6881740541225576015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369731c90b62df5f0800000000000000
+      internalID: -721377825334789789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3839e021b278251c0800000000000000
+      internalID: -4516398857242897533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340dedf73e4a2dcd0800000000000000
+      internalID: -2534782343246327741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcfda66782371380800000000000000
+      internalID: -9000669773151994662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9788c624638ee920800000000000000
+      internalID: 3021496866182825884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acac8ad16849a8f0800000000000000
+      internalID: -528811896123642711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cb47c9b0efdc7d0800000000000000
+      internalID: -2896379659506369417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6afa758a83ceacd0800000000000000
+      internalID: -2544881739705419156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a057687d4a69fc0800000000000000
+      internalID: -3488419615771129223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2685cbf19652a10800000000000000
+      internalID: 1884027604149232313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e77817f814b3c10800000000000000
+      internalID: 2034291741028744851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1de66d02b2662a0800000000000000
+      internalID: -6744655971904204367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8c63f464ee538a0800000000000000
+      internalID: -6325888115827881786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e5869c7eee7d10800000000000000
+      internalID: 2125398293034166413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF2 Walk Right_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc90fa8bda0269b0800000000000000
+      internalID: -5088492690930098985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scarlett OF2 Walk Right_23: 1884027604149232313
+      Scarlett OF2 Walk Right_5: 1442380790080991037
+      Scarlett OF2 Walk Right_12: 9094961158594537911
+      Scarlett OF2 Walk Right_1: -3400212832174782811
+      Scarlett OF2 Walk Right_2: -2880032665084786863
+      Scarlett OF2 Walk Right_0: 8360148323591885483
+      Scarlett OF2 Walk Right_19: -528811896123642711
+      Scarlett OF2 Walk Right_21: -2544881739705419156
+      Scarlett OF2 Walk Right_4: -8560290798756886786
+      Scarlett OF2 Walk Right_10: -8441681600999411830
+      Scarlett OF2 Walk Right_26: -6325888115827881786
+      Scarlett OF2 Walk Right_20: -2896379659506369417
+      Scarlett OF2 Walk Right_18: 3021496866182825884
+      Scarlett OF2 Walk Right_28: -5088492690930098985
+      Scarlett OF2 Walk Right_14: -721377825334789789
+      Scarlett OF2 Walk Right_13: -6881740541225576015
+      Scarlett OF2 Walk Right_27: 2125398293034166413
+      Scarlett OF2 Walk Right_9: -7565348817551472986
+      Scarlett OF2 Walk Right_22: -3488419615771129223
+      Scarlett OF2 Walk Right_25: -6744655971904204367
+      Scarlett OF2 Walk Right_24: 2034291741028744851
+      Scarlett OF2 Walk Right_8: -7017547419036625747
+      Scarlett OF2 Walk Right_11: 1446960780779343093
+      Scarlett OF2 Walk Right_16: -2534782343246327741
+      Scarlett OF2 Walk Right_7: -4506762660890301565
+      Scarlett OF2 Walk Right_3: 8198230858675016787
+      Scarlett OF2 Walk Right_15: -4516398857242897533
+      Scarlett OF2 Walk Right_6: 8356145281307648571
+      Scarlett OF2 Walk Right_17: -9000669773151994662
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4537416301921923841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4537416301921923840}
+  m_Layer: 0
+  m_Name: OF 6 Animations
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4537416301921923840
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4537416301921923841}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4537416302414198944}
+  - {fileID: 4537416302045899800}
+  - {fileID: 4537416303038799722}
+  - {fileID: 4537416303298420478}
+  - {fileID: 4537416303067671227}
+  - {fileID: 4537416303587311107}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &733733156953487765
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 3807400396705857844, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Walk Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+--- !u!4 &4537416302414198944 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3807400396705857845, guid: 156104cbf8ca07a4188e35ae9388160c, type: 3}
+  m_PrefabInstance: {fileID: 733733156953487765}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1158225919702909542
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3380791822331796633, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Idle Right
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+--- !u!4 &4537416303298420478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3380791822331796632, guid: 79e40e14f2d31cd42b92b6ef788756dd, type: 3}
+  m_PrefabInstance: {fileID: 1158225919702909542}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4308875583290781382
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 374950598317737086, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Idle Front
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+--- !u!4 &4537416303067671227 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 374950598317737085, guid: eee67b0f628b5b84ba57bd1fe708e728, type: 3}
+  m_PrefabInstance: {fileID: 4308875583290781382}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6428001051955619806
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7479631190826535879, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Walk Forward
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+--- !u!4 &4537416302045899800 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7479631190826535878, guid: bbbb1e6768f43d3458a00e6a75ce76e8, type: 3}
+  m_PrefabInstance: {fileID: 6428001051955619806}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7240919538333093250
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6522564534054728578, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Idle Back
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+--- !u!4 &4537416303587311107 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6522564534054728577, guid: 2fc8d2354e4d1c745a86fe7c33cc9aac, type: 3}
+  m_PrefabInstance: {fileID: 7240919538333093250}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9081323398332078976
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 4537416301921923840}
+    m_Modifications:
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4683589209678103787, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+      propertyPath: m_Name
+      value: Scarlett OF6 Walk Backward
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+--- !u!4 &4537416303038799722 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4683589209678103786, guid: 5553d201ba6b00843bf726b5c2edacaf, type: 3}
+  m_PrefabInstance: {fileID: 9081323398332078976}
+  m_PrefabAsset: {fileID: 0}

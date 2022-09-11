@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 6aea59527db02a84194e3f1997c9dd71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1639478745743463738
+    second: Scarlett OF6-B Walk Forward_0
+  - first:
+      213: -2176297017267570140
+    second: Scarlett OF6-B Walk Forward_1
+  - first:
+      213: -8665778890152499484
+    second: Scarlett OF6-B Walk Forward_2
+  - first:
+      213: -603213606706042111
+    second: Scarlett OF6-B Walk Forward_3
+  - first:
+      213: 7446250939928039921
+    second: Scarlett OF6-B Walk Forward_4
+  - first:
+      213: 562983564733739563
+    second: Scarlett OF6-B Walk Forward_5
+  - first:
+      213: -1431980705645002088
+    second: Scarlett OF6-B Walk Forward_6
+  - first:
+      213: -3714610438721336353
+    second: Scarlett OF6-B Walk Forward_7
+  - first:
+      213: -3348291785798220600
+    second: Scarlett OF6-B Walk Forward_8
+  - first:
+      213: 5935167999121650438
+    second: Scarlett OF6-B Walk Forward_9
+  - first:
+      213: -5472837866413722361
+    second: Scarlett OF6-B Walk Forward_10
+  - first:
+      213: -3547428578534078312
+    second: Scarlett OF6-B Walk Forward_11
+  - first:
+      213: 5202393374817525015
+    second: Scarlett OF6-B Walk Forward_12
+  - first:
+      213: 362355157783575038
+    second: Scarlett OF6-B Walk Forward_13
+  - first:
+      213: -8824974971654971409
+    second: Scarlett OF6-B Walk Forward_14
+  - first:
+      213: 7477220395555518494
+    second: Scarlett OF6-B Walk Forward_15
+  - first:
+      213: -1729969062083836749
+    second: Scarlett OF6-B Walk Forward_16
+  - first:
+      213: 1590603850006523899
+    second: Scarlett OF6-B Walk Forward_17
+  - first:
+      213: 3188038132521911380
+    second: Scarlett OF6-B Walk Forward_18
+  - first:
+      213: 3981816849675193110
+    second: Scarlett OF6-B Walk Forward_19
+  - first:
+      213: -2576820621113520642
+    second: Scarlett OF6-B Walk Forward_20
+  - first:
+      213: -8139737900867066670
+    second: Scarlett OF6-B Walk Forward_21
+  - first:
+      213: 3629516909043198292
+    second: Scarlett OF6-B Walk Forward_22
+  - first:
+      213: 4254562295192909717
+    second: Scarlett OF6-B Walk Forward_23
+  - first:
+      213: 5653357458805809407
+    second: Scarlett OF6-B Walk Forward_24
+  - first:
+      213: 6613597721600597649
+    second: Scarlett OF6-B Walk Forward_25
+  - first:
+      213: -4674137315964733483
+    second: Scarlett OF6-B Walk Forward_26
+  - first:
+      213: 232388998838809847
+    second: Scarlett OF6-B Walk Forward_27
+  - first:
+      213: 3347441741696887521
+    second: Scarlett OF6-B Walk Forward_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3597d0ab3990c610800000000000000
+      internalID: 1639478745743463738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a3600b46d3cc1e0800000000000000
+      internalID: -2176297017267570140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6a16e3308fcb780800000000000000
+      internalID: -8665778890152499484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10baa90bb64f0a7f0800000000000000
+      internalID: -603213606706042111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f154d627c5665760800000000000000
+      internalID: 7446250939928039921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22765eb19e10d700800000000000000
+      internalID: 562983564733739563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89201da9225902ce0800000000000000
+      internalID: -1431980705645002088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8e01ac7d037cc0800000000000000
+      internalID: -3714610438721336353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4832f5c5a7881d0800000000000000
+      internalID: -3348291785798220600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60379ed69d3fd5250800000000000000
+      internalID: 5935167999121650438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7057a13f4f29c04b0800000000000000
+      internalID: -5472837866413722361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898486eb08005cec0800000000000000
+      internalID: -3547428578534078312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d18dff53d923840800000000000000
+      internalID: 5202393374817525015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9783e9818570500800000000000000
+      internalID: 362355157783575038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdace1504678580800000000000000
+      internalID: -8824974971654971409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e187460755c64c760800000000000000
+      internalID: 7477220395555518494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4c316cd4aedf7e0800000000000000
+      internalID: -1729969062083836749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffe10236c5f21610800000000000000
+      internalID: 1590603850006523899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4544e536acf2e3c20800000000000000
+      internalID: 3188038132521911380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b0e850451424730800000000000000
+      internalID: 3981816849675193110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd80a43c4b4d3cd0800000000000000
+      internalID: -2576820621113520642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4e80e5187d90f80800000000000000
+      internalID: -8139737900867066670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592bc51662ae5230800000000000000
+      internalID: 3629516909043198292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5977eb7addd3b0b30800000000000000
+      internalID: 4254562295192909717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0ec60f7a2c47e40800000000000000
+      internalID: 5653357458805809407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e1653661838cb50800000000000000
+      internalID: 6613597721600597649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7368230e0222fb0800000000000000
+      internalID: -4674137315964733483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4fe7d209c993300800000000000000
+      internalID: 232388998838809847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scarlett OF6-B Walk Forward_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea68205780847e20800000000000000
+      internalID: 3347441741696887521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scarlett OF6-B Walk Forward_11: -3547428578534078312
+      Scarlett OF6-B Walk Forward_16: -1729969062083836749
+      Scarlett OF6-B Walk Forward_12: 5202393374817525015
+      Scarlett OF6-B Walk Forward_26: -4674137315964733483
+      Scarlett OF6-B Walk Forward_4: 7446250939928039921
+      Scarlett OF6-B Walk Forward_8: -3348291785798220600
+      Scarlett OF6-B Walk Forward_25: 6613597721600597649
+      Scarlett OF6-B Walk Forward_22: 3629516909043198292
+      Scarlett OF6-B Walk Forward_21: -8139737900867066670
+      Scarlett OF6-B Walk Forward_6: -1431980705645002088
+      Scarlett OF6-B Walk Forward_19: 3981816849675193110
+      Scarlett OF6-B Walk Forward_20: -2576820621113520642
+      Scarlett OF6-B Walk Forward_15: 7477220395555518494
+      Scarlett OF6-B Walk Forward_3: -603213606706042111
+      Scarlett OF6-B Walk Forward_5: 562983564733739563
+      Scarlett OF6-B Walk Forward_14: -8824974971654971409
+      Scarlett OF6-B Walk Forward_27: 232388998838809847
+      Scarlett OF6-B Walk Forward_28: 3347441741696887521
+      Scarlett OF6-B Walk Forward_0: 1639478745743463738
+      Scarlett OF6-B Walk Forward_2: -8665778890152499484
+      Scarlett OF6-B Walk Forward_18: 3188038132521911380
+      Scarlett OF6-B Walk Forward_9: 5935167999121650438
+      Scarlett OF6-B Walk Forward_10: -5472837866413722361
+      Scarlett OF6-B Walk Forward_7: -3714610438721336353
+      Scarlett OF6-B Walk Forward_13: 362355157783575038
+      Scarlett OF6-B Walk Forward_17: 1590603850006523899
+      Scarlett OF6-B Walk Forward_23: 4254562295192909717
+      Scarlett OF6-B Walk Forward_24: 5653357458805809407
+      Scarlett OF6-B Walk Forward_1: -2176297017267570140
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
