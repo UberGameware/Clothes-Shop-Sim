@@ -786,10 +786,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Scarlett OF3 Idle Front_23: -6991616071267373806
       Scarlett OF3 Idle Front_7: 488493008287085939
       Scarlett OF3 Idle Front_10: 8751843129248554650
       Scarlett OF3 Idle Front_17: -7989947743620877050
+      Scarlett OF3 Idle Front_18: -5375457773764737311
       Scarlett OF3 Idle Front_14: -1894575739958986195
       Scarlett OF3 Idle Front_3: 4408692780738462525
       Scarlett OF3 Idle Front_21: -390807071328996349
@@ -814,7 +814,7 @@ TextureImporter:
       Scarlett OF3 Idle Front_2: 213744629753856457
       Scarlett OF3 Idle Front_13: -6255447843749991449
       Scarlett OF3 Idle Front_24: 3672045466725830354
-      Scarlett OF3 Idle Front_18: -5375457773764737311
+      Scarlett OF3 Idle Front_23: -6991616071267373806
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

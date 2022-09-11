@@ -786,9 +786,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Scarlett OF6-B Idle Front_13: 2127777174103618866
-      Scarlett OF6-B Idle Front_0: 2466840329655165802
       Scarlett OF6-B Idle Front_27: -1094763372795695656
+      Scarlett OF6-B Idle Front_0: 2466840329655165802
+      Scarlett OF6-B Idle Front_5: -1569676457870569488
       Scarlett OF6-B Idle Front_11: -1959964982132037554
       Scarlett OF6-B Idle Front_26: 8362693935429299097
       Scarlett OF6-B Idle Front_9: -8519552025961065051
@@ -814,7 +814,7 @@ TextureImporter:
       Scarlett OF6-B Idle Front_24: 2745346129771094412
       Scarlett OF6-B Idle Front_23: 8406997620700521010
       Scarlett OF6-B Idle Front_4: 3689821777080758622
-      Scarlett OF6-B Idle Front_5: -1569676457870569488
+      Scarlett OF6-B Idle Front_13: 2127777174103618866
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

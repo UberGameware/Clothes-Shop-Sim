@@ -786,7 +786,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Scarlett OF4 Idle Right_15: 4309813370011845867
+      Scarlett OF4 Idle Right_0: -8653145209116115125
       Scarlett OF4 Idle Right_3: -2009355060701406378
       Scarlett OF4 Idle Right_8: 1060014820215620853
       Scarlett OF4 Idle Right_22: -5425672952773725444
@@ -814,7 +814,7 @@ TextureImporter:
       Scarlett OF4 Idle Right_16: -5877446065282287202
       Scarlett OF4 Idle Right_9: -6205560502314035577
       Scarlett OF4 Idle Right_25: -1822298521997241699
-      Scarlett OF4 Idle Right_0: -8653145209116115125
+      Scarlett OF4 Idle Right_15: 4309813370011845867
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
