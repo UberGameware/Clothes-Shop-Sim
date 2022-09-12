@@ -1,5 +1,6 @@
-using System;
+// using System;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace ClothesShopSim
 {
@@ -19,9 +20,13 @@ namespace ClothesShopSim
         }
 
         [SerializeField] private Rigidbody2D rb;
+        [SerializeField] private PlayerInventory playerInventory;
+        // [SerializeField] private ItemInfoHolder selectedItemInfoHolder;
         [SerializeField] private OutfitIDEnumVariable currentOutfitId;
         [SerializeField] private AnimationSet[] animationSets = new AnimationSet[9];
         [SerializeField] private float speed = 5f;
+
+        private UnityEvent equipSuccess;
 
         /*
          * TODO: IdleFront and IdleBack animations refer to the Front and Back sides of the Character respectively.
@@ -36,12 +41,15 @@ namespace ClothesShopSim
         private GameObject currentIdleForwardAnimGameObject;
         private GameObject currentIdleBackAnimGameObject;
 
+        private AnimationSet activeAnimationSet;
+        private AnimationSet previousAnimationSet;
+
         private ActiveAnimation activeAnimation = ActiveAnimation.None;
 
         private bool hitObstacleForward;
         private bool hitObstacleBack;
         private bool hitObstacleLeft;
-        private bool hitObstacleRight;
+        // private bool hitObstacleRight;
 
         private bool movingForward;
         private bool movingBack;
@@ -189,55 +197,6 @@ namespace ClothesShopSim
                         ActivateAnimation(ActiveAnimation.IdleRight);
                     }
                 }
-
-                // switch (activeAnimation)
-                // {
-                //     case ActiveAnimation.None:
-                //
-                //         //if there's no active animation default to IdleBack
-                //         ActivateAnimation(ActiveAnimation.IdleBack);
-                //
-                //         activeAnimation = ActiveAnimation.IdleBack;
-                //
-                //         break;
-                //
-                //     case ActiveAnimation.WalkRight:
-                //
-                //         ActivateAnimation(ActiveAnimation.IdleRight);
-                //
-                //         activeAnimation = ActiveAnimation.IdleRight;
-                //
-                //         break;
-                //     case ActiveAnimation.WalkLeft:
-                //
-                //         ActivateAnimation(ActiveAnimation.IdleLeft);
-                //
-                //         activeAnimation = ActiveAnimation.IdleLeft;
-                //
-                //         break;
-                //     case ActiveAnimation.WalkForward:
-                //
-                //         ActivateAnimation(ActiveAnimation.IdleForward);
-                //
-                //         activeAnimation = ActiveAnimation.IdleForward;
-                //
-                //         break;
-                //     case ActiveAnimation.WalkBack:
-                //
-                //         ActivateAnimation(ActiveAnimation.IdleBack);
-                //
-                //         activeAnimation = ActiveAnimation.IdleBack;
-                //
-                //         break;
-                //     default:
-                //
-                //         //if there's no input AND the active animation is not recognized default to IdleBack
-                //         ActivateAnimation(ActiveAnimation.IdleBack);
-                //
-                //         activeAnimation = ActiveAnimation.IdleBack;
-                //
-                //         break;
-                // }
             }
 
         }
@@ -250,28 +209,28 @@ namespace ClothesShopSim
                 hitObstacleForward = true;
                 hitObstacleBack = false;
                 hitObstacleLeft = false;
-                hitObstacleRight = false;
+                // hitObstacleRight = false;
             }
             else if (collision.GetContact(0).normal.y > 0)
             {
                 hitObstacleForward = false;
                 hitObstacleBack = true;
                 hitObstacleLeft = false;
-                hitObstacleRight = false;
+                // hitObstacleRight = false;
             }
             else if (collision.GetContact(0).normal.x > 0)
             {
                 hitObstacleForward = false;
                 hitObstacleBack = false;
                 hitObstacleLeft = true;
-                hitObstacleRight = false;
+                // hitObstacleRight = false;
             }
             else if (collision.GetContact(0).normal.x < 0)
             {
                 hitObstacleForward = false;
                 hitObstacleBack = false;
                 hitObstacleLeft = false;
-                hitObstacleRight = true;
+                // hitObstacleRight = true;
             }
         }
 
@@ -280,7 +239,7 @@ namespace ClothesShopSim
             hitObstacleForward = false;
             hitObstacleBack = false;
             hitObstacleLeft = false;
-            hitObstacleRight = false;
+            // hitObstacleRight = false;
         }
 
 
@@ -288,7 +247,7 @@ namespace ClothesShopSim
         //Set new animations corresponding to the current AnimationSet and activate IdleBack
         void Equip()
         {
-            AnimationSet currentAnimationSet;
+            AnimationSet currentAnimationSet; //cache
 
             for (int i = 0; i < animationSets.Length; i++)
             {
@@ -296,6 +255,9 @@ namespace ClothesShopSim
 
                 if (currentAnimationSet.OutfitID == currentOutfitId.Value)
                 {
+                    previousAnimationSet = activeAnimationSet;
+                    activeAnimationSet = currentAnimationSet;
+
                     currentWalkRightAnimGameObject = currentAnimationSet.WalkRightAnimGameObject;
                     currentWalkForwardAnimGameObject = currentAnimationSet.WalkForwardAnimGameObject;
                     currentWalkBackAnimGameObject = currentAnimationSet.WalkBackAnimGameObject;
@@ -310,8 +272,51 @@ namespace ClothesShopSim
             }
         }
 
+        public void EquipSucceeded(ItemInfo itemInfo)
+        {
+            bool found = false;
+
+            for (int i = 0; i < playerInventory.Inventory.Count; i++)
+            {
+                if (playerInventory.Inventory[i].OutfitID == itemInfo.OutfitID)
+                {
+                    currentOutfitId.Value = itemInfo.OutfitID;
+
+                    Equip();
+
+                    found = true;
+                            
+                }
+            }
+
+            if (!found)
+            {
+                Debug.LogError("Equip of item succeeded without having in the inventory?");
+            }
+
+            // if (playerInventory.Inventory.Contains(itemInfo))
+            // {
+            //     currentOutfitId.Value = itemInfo.OutfitID;
+            //
+            //     Equip();
+            // }
+            // else
+            // {
+            //     Debug.LogError("Equip of item succeeded without having in the inventory?");
+            // }
+        }
+
         void ActivateAnimation(ActiveAnimation activeAnimation)
         {
+            //Disable the previous anim set before enabling the new one
+            if (previousAnimationSet != null)
+            {
+                foreach (Transform childTransform in previousAnimationSet.transform)
+                {
+                    childTransform.gameObject.SetActive(false);
+                }
+            }
+
             switch (activeAnimation)
             {
                 case ActiveAnimation.None:

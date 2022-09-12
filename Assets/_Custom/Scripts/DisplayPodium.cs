@@ -20,7 +20,9 @@ namespace ClothesShopSim
         private void Awake()
         {
             itemDisplayPrice = GetComponentInChildren<TextMeshPro>();
-            itemDisplayPrice.text = itemInfo.BuyPrice.ToString();
+            itemDisplayPrice.text = "$ " + itemInfo.BuyPrice.ToString();
+
+            itemInfo.ResetItem();
         }
 
 

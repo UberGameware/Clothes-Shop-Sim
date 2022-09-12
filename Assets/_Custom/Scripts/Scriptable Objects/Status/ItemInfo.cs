@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace ClothesShopSim
@@ -48,5 +46,27 @@ namespace ClothesShopSim
             get { return equipped; }
             set { equipped = value; }
         }
+
+        public bool Equals(ItemInfo other)
+        {
+            return outfitID == other.OutfitID && itemSprite == other.itemSprite && buyPrice == other.buyPrice &&
+                   sellPrice == other.sellPrice;
+        }
+
+        public void SetItemInfo(ItemInfo itemInfo)
+        {
+            outfitID = itemInfo.outfitID;
+            itemSprite = itemInfo.itemSprite;
+            buyPrice = itemInfo.buyPrice;
+            sellPrice = itemInfo.sellPrice;
+        }
+
+        public void ResetItem()
+        {
+            quantityPurchased = 0;
+            equipped = false;
+        }
+
+        
     }
 }
