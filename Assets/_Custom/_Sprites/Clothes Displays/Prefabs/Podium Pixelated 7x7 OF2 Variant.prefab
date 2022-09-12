@@ -91,6 +91,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2431989143389453703, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
+      propertyPath: itemInfo
+      value: 
+      objectReference: {fileID: 11400000, guid: dfe7811033721aa49999f80f99cfcf9a, type: 2}
+    - target: {fileID: 2944630481353778433, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4042359626894187963, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7064977453982092804, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -138,6 +150,10 @@ PrefabInstance:
     - target: {fileID: 7064977453982092806, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
       propertyPath: m_Name
       value: Podium Pixelated 7x7 OF2 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8538859386637841043, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fae3d85ef344a474d85bbfe0d18dcaa9, type: 3}

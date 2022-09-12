@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 193ec9fbfdc31f74bbc8f5a21ad8517f, type: 3}
+  m_Name: OF4-B ItemInfo
+  m_EditorClassIdentifier: 
+  outfitID: 5
+  itemSprite: {fileID: 21300000, guid: 997020f9921bdd64380d8b8216fdae41, type: 3}
+  buyPrice: 230
+  sellPrice: 120
