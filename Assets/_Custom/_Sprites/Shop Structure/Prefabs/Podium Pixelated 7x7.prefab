@@ -10,7 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7064977453982092804}
   - component: {fileID: 7064977453982092807}
-  m_Layer: 0
+  - component: {fileID: 8847672025310931729}
+  m_Layer: 8
   m_Name: Podium Pixelated 7x7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84,3 +85,61 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &8847672025310931729
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7064977453982092806}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.55, y: 2.07}
+    newSize: {x: 2.55, y: 2.07}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.825, y: -0.85499996}
+      - {x: 0.875, y: -0.825}
+      - {x: 0.945, y: -0.775}
+      - {x: 1.115, y: -0.615}
+      - {x: 1.1949999, y: -0.505}
+      - {x: 1.275, y: -0.345}
+      - {x: 1.275, y: 0.33499998}
+      - {x: 1.225, y: 0.475}
+      - {x: 1.135, y: 0.59499997}
+      - {x: 0.945, y: 0.78499997}
+      - {x: 0.715, y: 0.92499995}
+      - {x: 0.645, y: 0.955}
+      - {x: 0.405, y: 1.015}
+      - {x: 0.315, y: 1.035}
+      - {x: -0.315, y: 1.035}
+      - {x: -0.48499998, y: 0.995}
+      - {x: -0.675, y: 0.92499995}
+      - {x: -0.825, y: 0.85499996}
+      - {x: -1.025, y: 0.715}
+      - {x: -1.155, y: 0.575}
+      - {x: -1.255, y: 0.375}
+      - {x: -1.275, y: 0.315}
+      - {x: -1.275, y: -0.315}
+      - {x: -1.255, y: -0.385}
+      - {x: -1.145, y: -0.585}
+      - {x: -0.935, y: -0.78499997}
+      - {x: -0.825, y: -0.85499996}
+      - {x: -0.695, y: -0.935}
+      - {x: -0.385, y: -1.035}
+      - {x: 0.305, y: -1.035}
+      - {x: 0.36499998, y: -1.025}
+      - {x: 0.555, y: -0.97499996}
+      - {x: 0.655, y: -0.935}
